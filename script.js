@@ -42,4 +42,5 @@
         element.classList.toggle("far");
     };
 
+    
 })();
